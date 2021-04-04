@@ -1,6 +1,6 @@
 ### Hi ya 👋
 
-- 🔭 I’m currently helping building [Ironchip](https://ironchip.com), [Goxo](https://www.goxo.es) and [SunTrack](https://www.suntrack.services)
+- 🔭 I’m currently helping to build [Ironchip](https://ironchip.com), [Goxo](https://www.goxo.es) and [SunTrack](https://www.suntrack.services)
 - 🌱 I’m currently learning a new open standard instruction set architecture (ISA) called [RISC-V](https://riscv.org)
 - 👯 I’m looking to collaborate on building workflows that help improve your Cloud Native Development experience
 - 💬 Ask me about Kubernetes, AWS/GCP, Golang, Microservices, Devops, GitOps, Startups

@@ -1,8 +1,8 @@
 ### Hi ya 👋
 
-- 🔭 I’m currently helping to build [Dentsu Tracking](https://dentsutracking.com/) and [SunTrack](https://www.suntrack.services)
+- 🔭 I’m currently helping to build [SunTrack](https://www.suntrack.services)
 - 🌱 I’m currently learning [RISC-V](https://riscv.org), a new open standard instruction set architecture (ISA)
-- 👯 I’m looking to collaborate on building workflows that help improve your Cloud Native Development experience
+- 👯 I’m looking to collaborate on building workflows that help improve your transition to the Cloud
 - 💬 Ask me about [Kubernetes](https://kubernetes.io/), [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Golang](https://golang.org/), Microservices, Devops, GitOps, SecOps, DevSecOps, Startups
 - 📫 You can reach [me at Mastodon](https://mastodon.social/@ibannieto) and [Twitter](https://twitter.com/ibannieto)
 - 😎 I'm in the computer industry and in the Internet since 1994

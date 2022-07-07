@@ -10,3 +10,4 @@
 - ❤️ [demoscene](https://www.pouet.net), old school computers [MSX](https://www.msx.org), [Amiga](https://en.wikipedia.org/wiki/Amiga)
 - ⚡ Fun fact: I wear kilts and speak [Gàidhlig](https://en.wikipedia.org/wiki/Scottish_Gaelic)
 - 🎮 CMDR in [Elite Dangerous](https://inara.cz/cmdr/130103/)
+- 🐰 Plan 9 user
